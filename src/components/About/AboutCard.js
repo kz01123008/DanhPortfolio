@@ -67,7 +67,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Keep pushing forward, always improving!"{" "}
           </p>
-          <footer className="blockquote-footer">Nguyen Ngoc Han</footer>
+          <footer className="blockquote-footer">Tran Mac Dang Danh</footer>
         </blockquote>
       </Card.Body>
     </Card>
